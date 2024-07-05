@@ -2,7 +2,7 @@
 
 This project is an Express application developed with TypeScript, integrating MongoDB with Mongoose for effective data management. It ensures data integrity through validation using Zod.
 
-## Preview - [Live Site](https://express-backend-server.vercel.app)
+## Preview - [Live Site]()
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ To clone and install this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git https://github.com/kamruzzaman22874/Next-Level-Assignment-2
+   git https://github.com/kazibilasi/l2-assignment-2.git
    ```
 
 2. **Install dependencies:**
@@ -156,4 +156,5 @@ The application exposes several API endpoints to manage products and orders. Bel
 - **Zod:** TypeScript-first schema declaration and validation library.
 - **TypeScript:** JavaScript with syntax for types.
 - **ESLint:** Linting tool for identifying and reporting on patterns in JavaScript.
+# l2-assignment-2
 # l2-assignment-2
