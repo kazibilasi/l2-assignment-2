@@ -2,7 +2,7 @@
 
 This project is an Express application developed with TypeScript, integrating MongoDB with Mongoose for effective data management. It ensures data integrity through validation using Zod.
 
-## Preview - [Live Site]()
+## Preview - [Live Site](https://l2-assignment-2-lyart.vercel.app/)
 
 ## Table of Contents
 
